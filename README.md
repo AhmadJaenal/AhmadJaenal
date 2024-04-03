@@ -36,7 +36,7 @@ I am a college student majoring in information engineering and currently studyin
 
 </a>
 <a href="https://dart.dev/"> 
-<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://flutter.dev/?gad_source=1&gclid=Cj0KCQjw2a6wBhCVARIsABPeH1uHETDtZUCjLYdh7-YpJeQXf2f719SYRgfnnBFMu-EnpP_-23diqswaArIxEALw_wcB&gclsrc=aw.ds" />
+<img align="left" alt="Flutter" width="30px" style="padding-right:10px;" src="https://flutter.dev/" />
 </a>
 <a href="https://laravel.com/"> 
 <img align="left" alt="Laravel" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg" />
