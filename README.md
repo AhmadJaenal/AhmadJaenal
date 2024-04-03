@@ -122,4 +122,6 @@ I am a college student majoring in information engineering and currently studyin
     <img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
 </a>
 
+### Slicing UI
+![DETAIL PAGE SHOES STORE](images/Slicing%20UI.png)
 
