@@ -116,7 +116,7 @@ I am a college student majoring in information engineering and currently studyin
 
 ### Operating System
 <a href="https://www.microsoft.com/en-us/windows/windows-11" target="_blank">
-    <img align="left" alt="Windows 11" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows/windows11-original.svg" />
+    <img align="left" alt="Windows 11" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/windows11/windows11-original.svg" />
 </a>
 <a href="https://www.android.com/" target="_blank">
     <img align="left" alt="Android" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
