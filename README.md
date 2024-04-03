@@ -6,7 +6,7 @@ I am a college student majoring in information engineering and currently studyin
 
 ---
 
-### Languages 
+### Skills 
 
 ### Languages 
 
