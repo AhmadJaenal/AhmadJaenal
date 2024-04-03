@@ -127,5 +127,5 @@ I am a college student majoring in information engineering and currently studyin
 #
 
 ### Slicing UI
-![DETAIL PAGE SHOES STORE](images/Slicing%20UI.png){:width="400px" height="300px"}
+<img src="images/Slicing%20UI.png" width="400px" height="300px">
 
