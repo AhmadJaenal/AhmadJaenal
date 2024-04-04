@@ -1,4 +1,4 @@
-# Hi, i'm Jenal
+# Hi👋, i'm Jenal
 
 **`Mobile Developer`**
 
