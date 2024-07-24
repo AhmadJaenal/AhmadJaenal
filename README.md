@@ -114,8 +114,6 @@ I am a college student majoring in information engineering and currently studyin
     <img src="images/Slicing%20UI.png" width="380px" height="200px">
     <img src="images/School App.png" width="380px" height="200px">
 </div>
-<div>
-    <img src="images/Slicing%20UI.png" width="380px" height="200px">
-</div>
+
 
 
